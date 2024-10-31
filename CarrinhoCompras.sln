@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Usuario", "Usuario\Usuario.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuildingBlocks", "BuildingBlocks", "{38F9868B-AF29-4999-BD26-CDBB46D5FC92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHost.Customization", "WebHost.Customization\WebHost.Customization.csproj", "{620347DE-314B-4554-86C4-3F76710F33DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebHost.Customization", "WebHost.Customization\WebHost.Customization.csproj", "{620347DE-314B-4554-86C4-3F76710F33DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Produtos", "Produtos\Produtos.csproj", "{0FBD31EF-DAAE-4BC0-84FB-8470DF6EAF59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,10 @@ Global
 		{620347DE-314B-4554-86C4-3F76710F33DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{620347DE-314B-4554-86C4-3F76710F33DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{620347DE-314B-4554-86C4-3F76710F33DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FBD31EF-DAAE-4BC0-84FB-8470DF6EAF59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FBD31EF-DAAE-4BC0-84FB-8470DF6EAF59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FBD31EF-DAAE-4BC0-84FB-8470DF6EAF59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FBD31EF-DAAE-4BC0-84FB-8470DF6EAF59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +45,7 @@ Global
 		{576529E1-92CA-40A8-8A42-CF062E9F0550} = {C7208AE6-F6BD-462E-A4FE-ADD3B99B1242}
 		{E0B5F7D6-A1A4-437C-9F9B-1BA38CF07447} = {C7208AE6-F6BD-462E-A4FE-ADD3B99B1242}
 		{620347DE-314B-4554-86C4-3F76710F33DA} = {38F9868B-AF29-4999-BD26-CDBB46D5FC92}
+		{0FBD31EF-DAAE-4BC0-84FB-8470DF6EAF59} = {C7208AE6-F6BD-462E-A4FE-ADD3B99B1242}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BE2FED03-D7E8-488C-9F25-3309AF3A1DB1}
